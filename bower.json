@@ -1,0 +1,20 @@
+{
+  "name": "myzkingblog",
+  "description": "我的博客",
+  "main": "",
+  "authors": [
+    "lvlay <lvlayster@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/lvlay/myzkingblog2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
